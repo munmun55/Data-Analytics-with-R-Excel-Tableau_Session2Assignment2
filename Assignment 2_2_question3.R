@@ -4,7 +4,7 @@
 # 3. Write a script for Variable Binning using R.
 
 
-#Wiriting binning() function for dividing the variable named age into 4 bins named as "group1-(1 to 25)","group2-(26 to 50)","group3-(51 to 75)","group4-(76 to 90)"
+#Writing binning() function for dividing the variable named age into 4 bins named as "group1-(1 to 25)","group2-(26 to 50)","group3-(51 to 75)","group4-(76 to 90)"
 age <- c(1:90)
 age
 
