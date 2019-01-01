@@ -29,7 +29,7 @@ x<-c(1:90)
 cut(x,4,labels=c("group1","group2","group3","group4"))
 
 
-# Example 3: Import a mtcars.csv file into R-Studio and divide the variable named mpg into 5 bins named "FIRST","SECOND","THIRD","FOURTH" and "FIFTH"
+# Example 2: Import a mtcars.csv file into R-Studio and divide the variable named mpg into 5 bins named "FIRST","SECOND","THIRD","FOURTH" and "FIFTH"
 
 library(readr)
 mtcars <- read_csv("E:/munmun_acadgild/acadgild data analytics/supporting files/mtcars.csv")
